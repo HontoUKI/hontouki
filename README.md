@@ -56,11 +56,12 @@ The goal is not just to create a chatbot, but a more realistic character system 
 - Local AI systems
 - Unity / Live2D integration
 
-## 📈 GitHub stats
+## 📌 Current focus
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HontoUKI&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HontoUKI&layout=compact&theme=tokyonight)
+- Building **Maria**, a local AI character engine
+- Improving backend architecture and OOP skills
+- Learning testing, regression safety and cleaner project structure
+- Exploring local LLMs, Ollama, Unity and Live2D integration
 
 ## 📫 Contact
 
