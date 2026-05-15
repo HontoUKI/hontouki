@@ -30,6 +30,27 @@ Maria is a local AI character project built around:
 
 The goal is not just to create a chatbot, but to build a more realistic character system with presence, personality and long-term interaction.
 
+## Debug WebUI and Screenshots
+
+The screenshots and frontend showcase are available in a separate repository:
+
+[Maria AI Character Engine Debug WebUI](https://github.com/HontoUKI/Maria-AI-Character-Engine-Debug-WebUI)
+
+This WebUI is a developer/debug cockpit for Maria AI Character Engine. It is not the final user-facing Live2D/Unity client, but it demonstrates how the backend runtime can be observed and tested through a lightweight React/Vite interface.
+
+It includes:
+
+- live conversation view;
+- daily dialogue history;
+- runtime/debug state panel;
+- relationship and mood parameter display;
+- proactive message support;
+- sprite overlay preview;
+- API integration with the Maria backend.
+
+This main repository focuses on the backend engine, architecture, tests and runtime logic.  
+For visual screenshots and the current web interface, see the Debug WebUI repository.
+
 ## 🛠️ Tech stack
 
 ### Languages
