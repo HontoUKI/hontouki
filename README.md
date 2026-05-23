@@ -4,9 +4,9 @@
 
 **Software engineering student · Backend / Fullstack Developer · AI Character Systems**
 
-I build systems where code, behavior logic, memory, and long-term interaction meet.
+I build systems where code, behavior logic, memory, perception and long-term interaction meet.
 
-Currently working on **Maria** — a local AI character engine / desktop companion project focused on personality, memory, emotional state, relationship dynamics, and the feeling of presence.
+Currently working on **M.A.R.I.A.** — an author-driven local AI character ecosystem built around a single-user Core runtime, external clients, memory, personality, relationship dynamics and the feeling of presence.
 
 </div>
 
@@ -17,7 +17,7 @@ Currently working on **Maria** — a local AI character engine / desktop compani
 - 🎓 Software engineering student
 - 💻 Interested in backend, fullstack, AI systems and automation
 - 🛠️ I like building projects that combine code, behavior logic and system architecture
-- 🤖 Currently focused on local AI characters, LLM pipelines and character-based agents
+- 🤖 Currently focused on local AI characters, LLM pipelines and character-based runtimes
 - 📚 Improving my skills in OOP, testing, clean backend architecture and project structure
 - ⚙️ I use AI tools as accelerators, but I focus on understanding, reviewing and shaping the architecture myself
 
@@ -27,28 +27,39 @@ Currently working on **Maria** — a local AI character engine / desktop compani
 
 <div align="center">
 
-### [Maria — Local AI Character Engine](https://github.com/HontoUKI/Maria-AI-Character-Engine)
+### [M.A.R.I.A.](https://github.com/HontoUKI/M.A.R.I.A.)
 
-**A local AI character engine built around memory, personality, emotional dynamics and long-term interaction.**
+**An author-driven ecosystem for local AI character systems.**
 
 </div>
 
-Maria is my personal long-term AI character project.
+**M.A.R.I.A.** is my personal long-term AI character ecosystem.
 
-It is not just a chatbot or a generic assistant.  
-The goal is to build a more realistic local character system with presence, personality, memory and evolving interaction.
+It is not just a chatbot, generic assistant or companion SaaS.  
+The goal is to build a more realistic local character system with presence, personality, memory, subjective perception and long-term continuity.
 
-Maria is built around:
+The ecosystem is centered around:
 
-- persona and behavior rules
+<div align="center">
+
+### [M.A.R.I.A.-Core](https://github.com/HontoUKI/M.A.R.I.A.-Core)
+
+**Canonical single-user runtime and architectural heart of the ecosystem.**
+
+</div>
+
+`M.A.R.I.A.-Core` is built around:
+
+- persona and behavior logic
 - memory and context systems
+- Maria's perception of user messages
 - affection / trust / mood mechanics
 - relationship and emotional state dynamics
-- opinion evolution
+- opinion and preference evolution
 - local LLM integration through Ollama
-- API layer for external clients
-- future Unity / Live2D integration
+- FastAPI-based API contracts for external clients
 - regression tests for behavior stability
+- future external clients such as WebUI, Voice, CV, Avatar / Live2D and Discord integrations
 
 ---
 
@@ -56,14 +67,14 @@ Maria is built around:
 
 <div align="center">
 
-### [Maria AI Character Engine Debug WebUI](https://github.com/HontoUKI/Maria-AI-Character-Engine-Debug-WebUI)
+### [M.A.R.I.A.-WebUI](https://github.com/HontoUKI/M.A.R.I.A.-WebUI)
 
-**Developer/debug cockpit for observing and testing Maria's backend runtime.**
+**Developer/debug cockpit for observing and testing M.A.R.I.A.-Core runtime behavior.**
 
 </div>
 
 The Debug WebUI is not the final user-facing Live2D/Unity client.  
-It demonstrates how the backend runtime can be observed and tested through a lightweight React/Vite interface.
+It demonstrates how the Core runtime can be observed and tested through a lightweight React/Vite interface.
 
 It includes:
 
@@ -73,10 +84,10 @@ It includes:
 - relationship and mood parameter display
 - proactive message support
 - sprite / Live2D preview experiments
-- API integration with the Maria backend
+- API integration with M.A.R.I.A.-Core
 
-The main Maria repository focuses on backend engine architecture, tests, runtime logic, memory, behavior and AI character systems.  
-The Debug WebUI repository focuses on visual inspection, development tooling and frontend experimentation.
+`M.A.R.I.A.-Core` focuses on runtime architecture, tests, memory, behavior and AI character systems.  
+`M.A.R.I.A.-WebUI` focuses on visual inspection, development tooling and frontend experimentation.
 
 ---
 
@@ -109,11 +120,12 @@ The Debug WebUI repository focuses on visual inspection, development tooling and
 
 ## 📌 Current focus
 
-- Building **Maria** as a local AI character engine
-- Improving backend architecture and OOP design
+- Building **M.A.R.I.A.-Core** as a single-user local AI character runtime
+- Designing a cleaner Core / external clients architecture
+- Improving backend architecture, OOP design and API contracts
 - Strengthening tests, regression safety and project structure
-- Exploring local LLM pipelines, Ollama, Unity, Live2D, voice and future desktop companion features
-- Turning Maria from a technical prototype into a long-term personal AI character system
+- Exploring local LLM pipelines, memory systems and character-based agents
+- Turning Maria from a technical prototype into a long-term authored AI character system
 
 ---
 
@@ -125,6 +137,6 @@ The Debug WebUI repository focuses on visual inspection, development tooling and
 
 <div align="center">
 
-_This profile is part of my path as a developer, system thinker and creator of Maria._
+_This profile is part of my path as a developer, system thinker and creator of M.A.R.I.A._
 
 </div>
