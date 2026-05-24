@@ -42,7 +42,7 @@ The ecosystem is centered around:
 
 <div align="center">
 
-### [M.A.R.I.A.-Core](https://github.com/HontoUKI/M.A.R.I.A.-Core)
+### [M.A.R.I.A.-Core-Sanitized-Snapshot]([https://github.com/HontoUKI/M.A.R.I.A.-Core](https://github.com/HontoUKI/M.A.R.I.A.-Core-Sanitized-Snapshot))
 
 **Canonical single-user runtime and architectural heart of the ecosystem.**
 
